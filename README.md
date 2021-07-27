@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter and web dev
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/livisha-jain-2bb4a218a/
 
 <!---
 livisha/livisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
